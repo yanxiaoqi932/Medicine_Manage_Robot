@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res1/clientback.png</file>
+        <file>res1/clientScene.png</file>
+        <file>res1/land.png</file>
+        <file>res1/loadbutton.png</file>
+        <file>res1/register.png</file>
+        <file>res1/registerscene.png</file>
+        <file>res1/登陆.png</file>
+    </qresource>
+</RCC>
